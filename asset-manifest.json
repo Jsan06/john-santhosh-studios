@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/john-santhosh-studios/static/css/main.f4a405e9.chunk.css",
+    "main.js": "/john-santhosh-studios/static/js/main.97236b35.chunk.js",
+    "main.js.map": "/john-santhosh-studios/static/js/main.97236b35.chunk.js.map",
+    "runtime-main.js": "/john-santhosh-studios/static/js/runtime-main.47ef0b9a.js",
+    "runtime-main.js.map": "/john-santhosh-studios/static/js/runtime-main.47ef0b9a.js.map",
+    "static/js/2.e5ee4166.chunk.js": "/john-santhosh-studios/static/js/2.e5ee4166.chunk.js",
+    "static/js/2.e5ee4166.chunk.js.map": "/john-santhosh-studios/static/js/2.e5ee4166.chunk.js.map",
+    "index.html": "/john-santhosh-studios/index.html",
+    "static/css/main.f4a405e9.chunk.css.map": "/john-santhosh-studios/static/css/main.f4a405e9.chunk.css.map",
+    "static/js/2.e5ee4166.chunk.js.LICENSE.txt": "/john-santhosh-studios/static/js/2.e5ee4166.chunk.js.LICENSE.txt",
+    "static/media/hero-bcg-2.40965be8.jpeg": "/john-santhosh-studios/static/media/hero-bcg-2.40965be8.jpeg",
+    "static/media/hero-bcg.cc577be8.jpeg": "/john-santhosh-studios/static/media/hero-bcg.cc577be8.jpeg",
+    "static/media/logo.1f71008b.png": "/john-santhosh-studios/static/media/logo.1f71008b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47ef0b9a.js",
+    "static/js/2.e5ee4166.chunk.js",
+    "static/css/main.f4a405e9.chunk.css",
+    "static/js/main.97236b35.chunk.js"
+  ]
+}
